@@ -23,6 +23,8 @@ All six papers, talks and BibTeX are on the [publications page](https://andreas-
 
 ### Currently building
 
+**Momentum Research Framework** *(private repo, code available on request)*
+
 A systematic momentum research framework in Python: time-series and cross-sectional momentum, volatility targeting, shrinkage-based portfolio optimisation, walk-forward testing and paper trading.
 
 ### Skills
